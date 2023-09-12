@@ -19,6 +19,7 @@ theme.addEventListener("click", () => {
     container.style.cssText = "background: #fff";
     theme.style.cssText = "background: #1f314f; color: white";
     theme.innerHTML = "dark";
+
     onOff = false;
   }
 });

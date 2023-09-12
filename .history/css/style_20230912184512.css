@@ -60,7 +60,6 @@ body {
     padding: 16px;
   }
   .container {
-    margin-top: 70px;
     max-width: 350px;
     gap: 20px;
     min-height: 485px;
@@ -74,15 +73,12 @@ body {
 }
 
 .theme__btn {
-  padding: 7px 30px;
+  padding: 10px 20px;
   background-color: #1f314f;
-  text-decoration: none;
-  color: white;
   cursor: pointer;
-  top: 10px;
+  top: 20px;
   right: 20px;
   position: absolute;
-  border-radius: 10px;
 }
 
 .theme__btn:active {

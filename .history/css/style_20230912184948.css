@@ -60,7 +60,7 @@ body {
     padding: 16px;
   }
   .container {
-    margin-top: 70px;
+    margin-top: 60px;
     max-width: 350px;
     gap: 20px;
     min-height: 485px;
@@ -74,7 +74,7 @@ body {
 }
 
 .theme__btn {
-  padding: 7px 30px;
+  padding: 5px 30px;
   background-color: #1f314f;
   text-decoration: none;
   color: white;
